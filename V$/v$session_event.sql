@@ -1,1 +1,0 @@
-select * from v$session_event where sid = 528 order by time_waited desc ;

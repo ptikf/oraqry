@@ -1,1 +1,0 @@
-select * from v$session_wait_history where sid = 528 ; 
